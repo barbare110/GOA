@@ -1,3 +1,3 @@
-name="Barbara"
-name="Anastasia"
-print(name)
+name1="Barbara"
+name2="Anastasia"
+print(name1+name2)
