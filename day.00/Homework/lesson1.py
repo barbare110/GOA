@@ -2,6 +2,8 @@ from turtle import *
 #we want to draw a house
 
 # drawing a square
+
+speed(20)
 width(7)
 color("blue")
 forward (200)
