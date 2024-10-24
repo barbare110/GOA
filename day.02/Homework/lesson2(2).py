@@ -1,8 +1,3 @@
-# User's age
-age = int(input("Enter your age: "))
-
-# Age in 10 years
-age_in_10_years = age + 10
-
-# Print the result
-print("In 10 years, you will be:", age_in_10_years, "years old.")
+age=15
+age_in_five_years= (15+5)
+print(age_in_five_years)
