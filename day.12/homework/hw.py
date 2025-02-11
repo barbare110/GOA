@@ -1,0 +1,17 @@
+number1=int(10)
+number2=int(20)
+number3=int(30)
+number4=int(40)
+number5=int(50)
+
+number1=float(11)
+number2=float(20)
+number3=float(33)
+number4=float(40)
+number5=float(51)
+
+number1=str(60)
+number2=str(70)
+number3=str(80)
+number4=str(90)
+number5=str(100)
