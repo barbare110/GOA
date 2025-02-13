@@ -1,0 +1,1 @@
+# iin HTML, the alt attribute is used with the <img> tag to provide a text description of the image
