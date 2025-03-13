@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #70e774;
+    color: rgb(1, 80, 20);
+    padding: 20px;
+    text-align: center;
+}
+main {
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    background-color: #c2eacd;
+    padding: 10px;
+}
+img {
+    text-align: center;
+    width: 50%;
+    max-width: 350px;
+}
+button {
+    color: rgb(31, 131, 38);
+}
+.contact {
+    font-size: 16px;
+}
