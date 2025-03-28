@@ -1,5 +1,5 @@
-name = "saba"
-surname = "benidze"
+name = "Barbare"
+surname = "Patashuri"
 
 age = 15  
 height = 160 
